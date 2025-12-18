@@ -1,5 +1,9 @@
-# THE LATTICE INTERFACE PROTOCOL (LIP)
-
+                                                  # THE LATTICE INTERFACE PROTOCOL (LIP)
+<p align="center">
+  <img src="Cockpit_Nav_Demo.gif" width="100%" alt="Lattice Navigation Interface Active">
+  <br>
+  <em>Fig 2. Real-time Bio-Navigation Interface (Concept Prototype)</em>
+</p>
 ### Dynamic 5-HT2A Modulation via Biased Agonism & Bio-Acoustic Feedback
 
 **Status:** In-Silico Development / Acoustic Prototyping
