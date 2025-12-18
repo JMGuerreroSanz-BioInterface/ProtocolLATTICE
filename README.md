@@ -21,5 +21,13 @@ The Lattice Interface Protocol (LIP) proposes a novel mechanism to bypass the im
 * **`/One-Pager.jpg`**: Scientific summary of the molecular mechanism and structural hypothesis.
 * **`/DEMO 144 Hzx Gido.wav`**: Acoustic Prototype v1. A binaural anchor frequency (144Hz) modulated by a biological respiratory curve (Golden Ratio amplitude) to induce parasympathetic resonance.
 
+## 4. Future Horizons (Phase III: Speculative)
+**From "Passenger" to "Architect" via Neuro-Prompting.**
+
+While Phase II relies on physiological feedback (BPM/HRV), Phase III proposes the integration of non-invasive BCI (Brain-Computer Interface) hardware to achieve **Semantic Audio Synthesis**.
+
+* **The Concept:** Utilization of LLMs trained on EEG/fNIRS data to decode abstract user intent (e.g., "Elevation," "Structure," "Dissolution") in real-time.
+* **The Mechanism:** A generative AI "Interpreter" translates these neural correlates into acoustic textures, allowing the user to actively sculpt the hallucinatory landscape through focused observation.
+* **Safety Protocol:** The AI acts as a "Benevolent Filter," rejecting panic-induced feedback loops and prioritizing parasympathetic stabilization sequences.
 ---
 *Disclaimer: This is a theoretical research project for educational and scientific exploration purposes.*
