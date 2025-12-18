@@ -4,13 +4,8 @@
 
 **Status:** In-Silico Development / Acoustic Prototyping
 **Principal Investigator:** Juan Marcos Guerrero Sanz
-<p align="center">
-  <img src="Lattice_High_Res.png" alt="Molecular Docking Visualization" width="600">
-</p>
-<p align="center">
-  <em>Fig 1. High-resolution In-Silico modeling of the "Fast Off-Rate" Ligand within the 5-HT2A Orthosteric Pocket.</em>
-</p>
 
+![Lattice Structure](Lattice_High_Res.png)
 
 ---
 
